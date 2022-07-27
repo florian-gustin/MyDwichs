@@ -1,0 +1,1 @@
+/Users/floriangustin/_workspaces/MyDwichs/MyDwichs/obj/Release/MyDwichs.csproj.CoreCompileInputs.cache

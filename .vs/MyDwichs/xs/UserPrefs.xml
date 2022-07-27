@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{02D6B9CF-1DFE-4EFE-A424-2E63B408EF52}|Default">
+  <MonoDevelop.Ide.ItemProperties.MyDwichs PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MyDwichs/Application/obj/Debug/net6.0/Application.GlobalUsings.g.cs">
+    <Files>
+      <File FileName="MyDwichs/Runner.cs" Line="29" Column="2" />
+      <File FileName="MyDwichs/Presentation/IInterpreter.cs" Line="4" Column="12" />
+      <File FileName="MyDwichs/Presentation/console/CommandLineInterpreter.cs" Line="9" Column="12" />
+      <File FileName="MyDwichs/Presentation/console/CommandLinePrinter.cs" Line="7" Column="12" />
+      <File FileName="MyDwichs/Presentation/IPrinter.cs" Line="6" Column="12" />
+      <File FileName="MyDwichs/Application/obj/Debug/net6.0/Application.GlobalUsings.g.cs" Line="2" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MyDwichs" expanded="True">
+            <Node name="MyDwichs" expanded="True">
+              <Node name="Application" expanded="True">
+                <Node name="obj" expanded="True">
+                  <Node name="Debug" expanded="True">
+                    <Node name="net6.0" expanded="True">
+                      <Node name="Application.GlobalUsings.g.cs" selected="True" />
+                    </Node>
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Domain" expanded="True" />
+              <Node name="Infrastructure" expanded="True" />
+              <Node name="Presentation" expanded="True">
+                <Node name="console" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

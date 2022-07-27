@@ -1,0 +1,227 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Application/Application.csproj": {}
+  },
+  "projects": {
+    "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Application/Application.csproj",
+        "packagesPath": "/Users/floriangustin/.nuget/packages/",
+        "outputPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/floriangustin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Domain/Domain.csproj": {
+                "projectPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Domain/Domain.csproj",
+        "packagesPath": "/Users/floriangustin/.nuget/packages/",
+        "outputPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/floriangustin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Infrastructure/Infrastructure.csproj": {
+                "projectPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Infrastructure/Infrastructure.csproj"
+              },
+              "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/Presentation.csproj": {
+                "projectPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/Presentation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Infrastructure/Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Infrastructure/Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Infrastructure/Infrastructure.csproj",
+        "packagesPath": "/Users/floriangustin/.nuget/packages/",
+        "outputPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/floriangustin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/Presentation.csproj",
+        "projectName": "Presentation",
+        "projectPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/Presentation.csproj",
+        "packagesPath": "/Users/floriangustin/.nuget/packages/",
+        "outputPath": "/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/floriangustin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.105/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

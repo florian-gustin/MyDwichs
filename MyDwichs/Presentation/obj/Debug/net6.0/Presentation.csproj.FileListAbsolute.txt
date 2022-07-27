@@ -1,0 +1,5 @@
+/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/obj/Debug/net6.0/Presentation.csproj.AssemblyReference.cache
+/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/obj/Debug/net6.0/Presentation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/obj/Debug/net6.0/Presentation.AssemblyInfoInputs.cache
+/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/obj/Debug/net6.0/Presentation.AssemblyInfo.cs
+/Users/floriangustin/Downloads/design_pattern_c_sharp-master/Presentation/obj/Debug/net6.0/Presentation.csproj.CoreCompileInputs.cache

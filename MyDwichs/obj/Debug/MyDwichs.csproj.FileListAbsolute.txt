@@ -1,0 +1,2 @@
+/Users/floriangustin/_workspaces/MyDwichs/MyDwichs/obj/Debug/MyDwichs.csproj.AssemblyReference.cache
+/Users/floriangustin/_workspaces/MyDwichs/MyDwichs/obj/Debug/MyDwichs.csproj.CoreCompileInputs.cache
